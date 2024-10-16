@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+
+# first heading
+text
+## second heading
+text
+### third heading
+text
 <!--
 **duncanophone/duncanophone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
